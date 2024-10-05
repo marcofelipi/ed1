@@ -1,0 +1,48 @@
+questão 1
+
+a)
+
+entrada: Ix Ex Nx Sx Rx Ex
+sequencia: Ix Rx Ix Ix Rx Ix Rx Ix Ix R R R
+saída (os retirados): INSERE
+5 | 
+4 |
+3 |
+2 | Ex
+1 | Nx Sx Rx
+0 | Ix Ex
+
+b)
+
+entrada: A, B, C, D, E, F
+sequencia: I I R I I R I R R I R R
+saída (os retirados): B D E C F A
+5 | 
+4 |
+3 |
+2 | 
+1 | 
+0 | 
+
+questão 2
+
+ENTRADA: 7 ok, 20 ok, 6 ok, 15 ok
+SAÍDA: 20 ok, 15 ok, 6, 7
+SEQUÊNCIA PARA OBTER = I I R I I R R R
+
+3 |
+2 | 
+1 | 
+0 | 
+
+questão 3
+
+5 | 
+4 | 
+3 | 11
+2 | 3
+1 | 5
+0 | 10
+
+topo: 11
+soma: 29
